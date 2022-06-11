@@ -26,7 +26,7 @@
         <li>
           <a class="text-decoration-none" href="#contact"><span>04. </span>Contact</a>
         </li>
-        <li><a class="btn resume-btn btn-lg" target="_blank" href="https://drive.google.com/file/d/1mseULh2iJ2ybhN9PcgTIxeC0Z3y9DxC5/view?usp=sharing">Resume</a></li>
+        <li><a class="btn resume-btn btn-lg" target="_blank" href="#">Resume</a></li>
       </ul>
       <ul class="mobile-menu-bar menu-animation">
         <li>
